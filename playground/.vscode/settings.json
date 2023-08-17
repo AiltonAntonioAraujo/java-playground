@@ -1,3 +1,6 @@
 {
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "yaml.schemas": {
+        "https://gitpod.io/schemas/gitpod-schema.json": "file:///workspace/java-playground/.gitpod.yml"
+    }
 }
