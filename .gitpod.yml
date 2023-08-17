@@ -4,6 +4,5 @@ tasks:
     init: echo 'init script' # runs during prebuild => https://www.gitpod.io/docs/configure/projects/prebuilds
     command: echo 'start script'
 
-  - name: Install jdk 20
-    before: sdk install java 20.0.2-amzn < /dev/null
-   
+image:
+    file: .gitpod.Dockerfile
