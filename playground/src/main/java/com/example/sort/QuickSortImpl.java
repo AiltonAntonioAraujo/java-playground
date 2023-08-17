@@ -1,4 +1,4 @@
-package com.example.Sort;
+package com.example.sort;
 
 public class QuickSortImpl {
 
