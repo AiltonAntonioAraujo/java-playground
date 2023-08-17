@@ -1,8 +1,8 @@
-package com.example;
+package com.example.Sort;
 
 import java.util.Arrays;
 
-public class Main {
+public class MainQS {
     public static void main(String[] args) {
         /*
          * Array especificado
