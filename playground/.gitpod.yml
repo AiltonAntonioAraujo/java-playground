@@ -1,0 +1,2 @@
+tasks:
+    - before: sdk install java 20.0.2-amzn < /dev/null
