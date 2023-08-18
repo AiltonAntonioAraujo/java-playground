@@ -1,2 +1,4 @@
-/workspace/java-playground/playground/src/main/java/com/example/Main.java
-/workspace/java-playground/playground/src/main/java/com/example/QuickSortImpl.java
+/workspace/java-playground/playground/src/main/java/com/example/sort/MainQS.java
+/workspace/java-playground/playground/src/main/java/com/example/db/AppDb.java
+/workspace/java-playground/playground/src/main/java/com/example/sort/QuickSortImpl.java
+/workspace/java-playground/playground/src/main/java/com/example/input/AppScanner.java
