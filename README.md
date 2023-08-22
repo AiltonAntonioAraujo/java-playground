@@ -1,18 +1,48 @@
-## Getting Started
+# java-playground
+## Description
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Java Playground is a project created for training in the Java version 20 programming language for the development of skills in the use of the language.
 
-## Folder Structure
+## Features
 
-The workspace contains two folders by default, where:
+(Another possibility would be to add user stories to this list)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- [x] Base linguage operations
+- [x] Search algoritms implementation
+- [x] Database Access with PostGress implementation
+- [x] Sort algoritms implementation
+- [x] Test Software pratices and tools
+- [x] Object oriented best pratices
+- [x] Using metods from NodeJS framework and JavaScript Languare.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Technologies
 
-## Dependency Management
+This project was built using the following technologies:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Java JDK 20 - Amazon Corretto
+- Apache Maven 4
+- PostGressSQL
+- Amazon Linux 2
+- JUnit 5
+
+## Installation
+
+To install the project dependencies, run the following command:
+
+```
+mvn install
+```
+
+## Usage
+
+To run the project locally, use the following command:
+
+```
+mvn start
+```
+
+## Notes
+
+Thank you to everyone who contributed to this project!
+
