@@ -28,10 +28,10 @@ public class PraticaDb {
                 System.out.println("Não Consultou!");
             }
         } catch (ClassNotFoundException e) {
-            // TODO Auto-generated catch block
+            
             e.printStackTrace();
         } catch (SQLException e) {
-            // TODO Auto-generated catch block
+            
             e.printStackTrace();
         }
 
